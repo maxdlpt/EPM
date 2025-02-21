@@ -1,4 +1,4 @@
-# Equity Pricing Model
+# Equity Pricing Model (EPM)
 Built during my internship at Quaero Capital, with the guidance of Bruno Allain, a senior equity portfolio manager.
 ### Valuation Methods in the Model:
 - Discounted Cash Flow (DCF)
